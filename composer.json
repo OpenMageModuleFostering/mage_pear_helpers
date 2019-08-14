@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Mage_Pear_Helpers",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL-3.0)",
+    "homepage": "",
+    "description": "Files that needs to be in PEAR library such as roles, tasks and commands",
+    "authors": [
+    {
+        "name": "Moshe Gurvich",
+        "email": "moshe@varien.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
